@@ -1,4 +1,13 @@
-# Gym-Duckietown
+# ISAE-Supaero project for IRT Saint-Exupery, Toulouse
+
+The aim of this project was to discover Duckietown, a simulator developed by Mila (Montreal), and to implement and optimize Reinforcement Learning algorithms to learn driving rules in the simulation. We were a group of 6 students working on this subject. Two internships offers followed our work to transfer the knowledge acquired on the simulation to a real robot, moving in a city model.
+
+<p align="center">
+<img src="media/synth.png" width="300px"><br>
+</p>
+
+
+# Gym-Duckietown Readme
 
 [![Build Status](https://circleci.com/gh/duckietown/gym-duckietown/tree/master.svg?style=shield)](https://circleci.com/gh/duckietown/gym-duckietown/tree/master) [![Docker Hub](https://img.shields.io/docker/pulls/duckietown/gym-duckietown.svg)](https://hub.docker.com/r/duckietown/gym-duckietown)
 
